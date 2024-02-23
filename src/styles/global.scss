@@ -1,0 +1,18 @@
+// @font-face {
+//   // font-family: "Press Start 2P";
+//   // src: url("/public/fonts/PressStart2P-Regular.ttf") format("truetype");
+//   font-family: "Bungee", sans-serif;
+//   // src: url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
+//   font-weight: 400;
+//   font-style: normal;
+// }
+
+@import "components/nav.scss";
+
+@import "setup/normalize.scss";
+@import "setup/variables.scss";
+
+@import "ui/buttons.scss";
+
+@import "views/home.scss";
+@import "views/about.scss";
