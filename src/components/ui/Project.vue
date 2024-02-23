@@ -35,7 +35,7 @@ export default defineComponent({
 
 <style scoped lang="scss">
 .project {
-  width: 100%;
+  // width: 100%;
   max-width: $content-width;
   margin: 0 auto;
   @media #{$md} {
@@ -59,6 +59,9 @@ export default defineComponent({
     gap: 10px;
     margin: 0 auto;
     overflow: hidden;
+    @media #{$sm} {
+      gap: 5px;
+    }
     div {
       width: 100%;
       height: 250px;
@@ -71,7 +74,8 @@ export default defineComponent({
         background-size: 100%;
       }
       @media #{$sm} {
-        height: 150px;
+        // height: 150px;
+        height: 25vw;
       }
     }
   }

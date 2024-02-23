@@ -9,7 +9,7 @@ export const scrollMixin = defineComponent({
         section.scrollIntoView({ behavior: "smooth" });
       }
       // Update the browser's URL with the section ID as the hash
-      history.pushState(null, "", sectionId);
+      // history.pushState(null, "", sectionId);
     },
   },
 });

@@ -13,6 +13,11 @@ npm run serve
 npm run build
 ```
 
+### Pushes dist folder to gh-pages branch
+```
+npm run deploy
+```
+
 ### Lints and fixes files
 ```
 npm run lint

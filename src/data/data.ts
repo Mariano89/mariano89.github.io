@@ -145,6 +145,20 @@ export const clientsData: Client[] = [
     ],
   },
   {
+    name: "US Forest Services",
+    projects: [
+      {
+        name: "Digital Storybook",
+        description:
+          "A mobile-first digital storybook experience that allowed families to take pictures and automatically overlay an illustration over their images. There were nine prompts for each of the four storybook themes that, once completed, could easily be shared via a link or social media. This was built using React JS and IndexDB to save the user's progress.",
+        images: [
+          "https://mariano-portfolio.s3.us-west-1.amazonaws.com/projects/dng/usfs/usfs-1.jpg",
+        ],
+        link: "https://player.vimeo.com/video/568663006",
+      },
+    ],
+  },
+  {
     name: "Kia Motors America",
     projects: [
       {
