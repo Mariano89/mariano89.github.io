@@ -23,8 +23,7 @@ npm run deploy
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Libraries used
 
 ### Image lightbox component
 [vue-easy-lightbox](https://github.com/XiongAmao/vue-easy-lightbox)

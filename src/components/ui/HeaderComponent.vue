@@ -49,7 +49,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    margin: 60px 0 10px 0;
+    margin: 50px 0 12px 0;
     h1 {
       font-size: 18vw;
       line-height: 15vw;

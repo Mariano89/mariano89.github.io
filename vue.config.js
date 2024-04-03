@@ -5,12 +5,6 @@ module.exports = defineConfig({
   transpileDependencies: true,
   lintOnSave: false,
 
-  pwa: {
-    themeColor: "#ffffff",
-    appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: 'black-translucent',
-  },
-
   pluginOptions: {
     "style-resources-loader": {
       preProcessor: "scss",

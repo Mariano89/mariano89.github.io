@@ -32,7 +32,7 @@ nav {
   position: fixed;
   right: 0;
   padding: 0 20px;
-  z-index: 2;
+  z-index: 3;
   @media #{$md} {
     padding: 0 10px;
   }
@@ -59,6 +59,8 @@ nav {
     border: 1px solid #fff;
     padding: 2px 18px;
     transition: all 0.3s ease;
+    font-size: 1rem;
+    line-height: 2rem;
     &:hover {
       color: #000;
       background-color: #fff;

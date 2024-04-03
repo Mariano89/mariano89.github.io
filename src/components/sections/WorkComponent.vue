@@ -1,7 +1,7 @@
 <template>
   <div id="work">
     <MarqueeComponent
-      text="&nbsp;Vans | VF Corporation | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | Vans | VF Corporation | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | "
+      text="&nbsp; VF Corporation | Vans | The North Face | Timberland | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | VF Corporation | Vans | The North Face | Timberland | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | "
       rotation="-3"
     />
     <div class="work-content">
@@ -29,6 +29,9 @@ export default defineComponent({
 #work {
   .work-content {
     padding: 50px 0;
+    @media #{$sm} {
+      padding: 0 0 30px 0;
+    }
     h2 {
       font-size: 60px;
       line-height: 66px;
