@@ -61,7 +61,7 @@ nav {
     transition: all 0.3s ease;
     font-size: 1rem;
     line-height: 2rem;
-    &:hover {
+    &:hover, &:active, &:focus {
       color: #000;
       background-color: #fff;
       border-color:#000;
