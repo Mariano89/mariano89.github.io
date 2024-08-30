@@ -100,10 +100,10 @@ export const clientsData: Client[] = [
     ],
   },
   {
-    name: "VF Corporation",
+    name: "OTW by Vans",
     projects: [
       {
-        name: "OTW by Vans",
+        name: "otw.vans.com",
         description: "Website development for the rebranding of Vans' OTW. I was one of five developers involved in this project. Tech stack included Vue 3, Nuxt and UnoCSS.",
         images: [
           "https://mariano-portfolio.s3.us-west-1.amazonaws.com/projects/vf/otw/otw-1.jpg",

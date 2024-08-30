@@ -1,7 +1,7 @@
 <template>
   <div id="about">
     <MarqueeComponent
-      text="&nbsp;Mariano Echegoyen | Full-stack Web Developer | Game Developer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | "
+      text="&nbsp;Mariano Echegoyen | Full-stack Web Developer | Game Developer | XR | Software Engineer | XR | Software Engineer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | XR | Software Engineer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | XR | Software Engineer | Mariano Echegoyen | Full-stack Web Developer | Game Developer | XR | Software Engineer | "
       rotation="3"
     />
     <div class="about-content">

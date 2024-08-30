@@ -1,7 +1,7 @@
 <template>
   <div id="work">
     <MarqueeComponent
-      text="&nbsp; VF Corporation | Vans | The North Face | Timberland | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | VF Corporation | Vans | The North Face | Timberland | David & Goliath | Kia Motors America | CA Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | "
+      text="&nbsp; VF Corporation | Vans | The North Face | Timberland | OTW by Vans | David & Goliath | Kia Motors America | California Lottery | Jack in the Box | US Forest Services | Jollibee | Stacy's Pita Chips | Chicken of the Sea | Today, I'm Brave | Who What Wear | Marie Claire | "
       rotation="-3"
     />
     <div class="work-content">
